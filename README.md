@@ -1,4 +1,4 @@
-# Nupic Simple Benchmark
+# NuPIC Simple Benchmark
 
 This repository contains the instructions and code used to benchmark NuPIC Inference Server in [this blogpost](https://tryolabs.com/blog/from-brain-to-binary-cpus-future-ai-inference).
 
