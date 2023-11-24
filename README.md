@@ -13,9 +13,8 @@ pip install transformers[torch]
 Run the following commands to download and prepare the data:
 ```bash
 pip install kaggle
-kaggle datasets download -d ankurzing/sentiment-analysis-for-financial-news
-unzip sentiment-analysis-for-financial-news.zip
-mv all_data.csv data.csv
+kaggle datasets download -d sbhatti/financial-sentiment-analysis
+unzip financial-sentiment-analysis.zip
 ```
 
 ## Run
