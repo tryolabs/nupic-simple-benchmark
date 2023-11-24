@@ -26,7 +26,7 @@ python run_cpu.py
 python run_gpu.py
 ```
 
-Each experiment will print inference time used to process the `4846` sentences.
+Each experiment will print inference time used to process the `5842` sentences.
 
 
 
